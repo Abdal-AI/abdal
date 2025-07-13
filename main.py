@@ -1,0 +1,1 @@
+print("myn name is abdal")
